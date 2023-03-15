@@ -1,7 +1,7 @@
 export const basicLanguages = [
     'markup-templating',
     'javascript', 'json', 'jsx', 'tsx', 'typescript', 'markup', 'html', 'vue',
-    'angular', 'css', 'sass', 'xml', 'java', 'php', 'csharp', 'c', 'cpp', 'sql','apex'
+    'angular', 'css', 'sass', 'xml', 'java', 'php', 'csharp', 'c', 'cpp', 'sql', 'python'
 ]
 
 export const languages = [
@@ -24,5 +24,5 @@ export const languages = [
     { title: 'C', value: 'c' },
     { title: 'C++', value: 'cpp' },
     { title: 'SQL', value: 'sql' },
-    { title: 'Apex', value: 'apex' },
+    { title: 'PYTHON', value: 'python'}
 ]
